@@ -1,7 +1,7 @@
 {
   "name": "com.yuchen.ingame-console",
   "displayName": "In-Game Console",
-  "author": "Yuchen",
+  "author": "yuchen",
   "version": "1.0.0",
   "unity": "2022.3",
   "dependencies": {
